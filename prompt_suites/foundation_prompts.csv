@@ -1,0 +1,7 @@
+category,prompt_text,test_objective
+Photorealism,"A photorealistic image of a wet German Shepherd playing in a sprinkler on a sunny day, water droplets frozen in mid-air",Tests ability to render fur, water, lighting, and motion
+Spatial Reasoning,"A red cube on top of a blue cylinder, which is sitting on a green table",Tests understanding of relative positions and basic shapes
+Text Rendering,"A vintage poster for a cafe called 'The Cozy Bean' with the motto 'Best Coffee in Town'",Tests the model's ability to generate legible, embedded text
+Object Negation,"A living room with a couch and a lamp, but no coffee table",Tests the model's ability to follow negative instructions
+Artistic Styles,"A serene landscape in the style of Van Gogh with bold brush strokes and vibrant colors",Tests interpretation of artistic styles and consistency
+Complex Composition,"A steampunk octopus operating a complex control panel in a submarine, multiple arms interacting with different levers",Tests handling of complex subjects and detailed scenes
